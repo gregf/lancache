@@ -46,7 +46,7 @@ Now we have our jail up and running you can either configure ssh or use the buil
 shell option for connect to your jail.
 
 
-## Jail Commannds
+## Jail Commands
 
 ```
 $ pkg install nginx
