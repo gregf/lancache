@@ -13,7 +13,7 @@ You can create this jail any how you want. For this readme though we will be usi
 
 First create a new jail for the nginx cache server.
 
-![jail creation](https://raw.githubusercontent.com/gregf/steamcache-jail/branch/imgs/create_jail.png)
+![jail creation](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/create_jail.png)
 
 Next we want to stop the jail you can find the stop button inside the jails sections of
 FreeNAS. This step is important, because we can't mount the dataset if the jail is
@@ -22,15 +22,15 @@ running.
 Next we want to add a new databaset for the /data directory. This dataset will hold all
 the cached steam installs.
 
-![add dataset](https://raw.githubusercontent.com/gregf/steamcache-jail/branch/imgs/add_dataset.png)
+![add dataset](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/add_dataset.png)
 
 Next configure the dataset.
 
-![create dataset](https://raw.githubusercontent.com/gregf/steamcache-jail/branch/imgs/create_dataset.png)
+![create dataset](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/create_dataset.png)
 
 The last step is to add the mountpoint to the jail.
 
-![add_mountpoint](https://raw.githubusercontent.com/gregf/steamcache-jail/branch/imgs/add_mountpoint.png)
+![add_mountpoint](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/add_mountpoint.png)
 
 Now we have our jail up and running you can either configure ssh or use the built in
 shell option for connect to your jail.
