@@ -32,6 +32,9 @@ The last step is to add the mountpoint to the jail.
 
 ![add_mountpoint](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/add_mountpoint.png)
 
+
+Once you are done go back into the Jails menu and start your jail again.
+
 Now we have our jail up and running you can either configure ssh or use the built in
 shell option for connect to your jail.
 
