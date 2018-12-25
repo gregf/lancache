@@ -1,4 +1,4 @@
-# LANcache
+# SteamCache Jail
 Dynamically Cache Steam Installs using [Nginx](http://nginx.org/)
 
 # Requirements
