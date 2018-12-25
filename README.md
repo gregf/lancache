@@ -87,6 +87,7 @@ If you are using PfSense this should be straight forward you just paste the outp
 
 * Services > DNS Resolver > General Settings > Custom Options
 
+![dns changes](https://raw.githubusercontent.com/gregf/steamcache-jail/master/imgs/dns.png)
 
 # Finishing up
 
