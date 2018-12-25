@@ -49,7 +49,7 @@ shell option for connect to your jail.
 ## Jail Commands
 
 ```
-$ pkg install nginx
+$ pkg install nginx-full
 $ cd /usr/local/etc
 $ mv nginx nginx_original
 $ git clone https://github.com/gregf/steamcache-jail nginx
@@ -64,7 +64,7 @@ Replace the IP used here with the IP of your jail.
 
 ```
 $ mkdir -p /data/cache/www
-$ chown -R nobody:root /data/cache/www
+$ chown -R nobody:nobody /data/cache/www
 $ service nginx start
 ```
 
