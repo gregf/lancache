@@ -5,6 +5,13 @@ Dynamically Cache Steam Installs using [Nginx](http://nginx.org/)
 Due to the features used in this configuration it requires
 * [nginx 1.6.0+](http://nginx.org/).
 
+# Table of Contents
+
+1. <a href="#jail-creation">Jail Creation</a>
+2. <a href="#jail-commands">Jail Commands</a>
+3. <a href="#dns-changes">DNS Changes</a>
+4. <a href="#finishing-up">Finishing Up</a>
+
 # Installation
 
 ## Jail Creation
