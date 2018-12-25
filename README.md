@@ -16,7 +16,7 @@ Due to the features used in this configuration it requires
 
 ## Jail Creation
 
-You can create this jail any how you want. For this readme though we will be using FreeNAS.
+You can create this jail any how you want. For this readme though we will be using [FreeNAS](https://www.freenas.org/).
 
 First create a new jail for the nginx cache server.
 
