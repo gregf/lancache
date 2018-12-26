@@ -59,7 +59,7 @@ $ sysrc nginx_enable="YES"
 
 Edit the `/etc/hosts` file on the jail to create the following entry:
 
-`**JAIL_IP** lancache-steam`
+`JAIL_IP lancache-steam`
 
 Replace **JAIL_IP** with the IP used for the new jail.
 
