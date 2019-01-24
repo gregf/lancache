@@ -2,7 +2,7 @@
 Dynamically Cache Steam Installs using [Nginx](http://nginx.org/)
 
 # Requirements
-Due to the features used in for this configuration **[nginx 1.6.0+](http://nginx.org/).**
+Due to the features used in this configuration, **[nginx 1.6.0+](http://nginx.org/).**
 is required.
 
 # Table of Contents
